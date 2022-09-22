@@ -1,0 +1,60 @@
+C:\Users\TOSHIBA\OneDrive\Desktop\C Sharp 2\obj\Debug\net6.0\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\OneDrive\Desktop\C Sharp 2\obj\Debug\net6.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\OneDrive\Desktop\C Sharp 2\obj\Debug\net6.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\OneDrive\Desktop\C Sharp 2\obj\Debug\net6.0\ConsoleApp6.AssemblyInfo.cs
+C:\Users\TOSHIBA\OneDrive\Desktop\C Sharp 2\obj\Debug\net6.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\OneDrive\Desktop\C Sharp 2\bin\Debug\net6.0\ConsoleApp6.exe
+C:\Users\TOSHIBA\OneDrive\Desktop\C Sharp 2\bin\Debug\net6.0\ConsoleApp6.deps.json
+C:\Users\TOSHIBA\OneDrive\Desktop\C Sharp 2\bin\Debug\net6.0\ConsoleApp6.runtimeconfig.json
+C:\Users\TOSHIBA\OneDrive\Desktop\C Sharp 2\bin\Debug\net6.0\ConsoleApp6.dll
+C:\Users\TOSHIBA\OneDrive\Desktop\C Sharp 2\bin\Debug\net6.0\ConsoleApp6.pdb
+C:\Users\TOSHIBA\OneDrive\Desktop\C Sharp 2\obj\Debug\net6.0\ConsoleApp6.dll
+C:\Users\TOSHIBA\OneDrive\Desktop\C Sharp 2\obj\Debug\net6.0\refint\ConsoleApp6.dll
+C:\Users\TOSHIBA\OneDrive\Desktop\C Sharp 2\obj\Debug\net6.0\ConsoleApp6.pdb
+C:\Users\TOSHIBA\OneDrive\Desktop\C Sharp 2\obj\Debug\net6.0\ConsoleApp6.genruntimeconfig.cache
+C:\Users\TOSHIBA\OneDrive\Desktop\C Sharp 2\obj\Debug\net6.0\ref\ConsoleApp6.dll
+C:\Users\TOSHIBA\OneDrive\Desktop\Tugas PBO PR Minggu ke-3\bin\Debug\net6.0\ConsoleApp6.exe
+C:\Users\TOSHIBA\OneDrive\Desktop\Tugas PBO PR Minggu ke-3\bin\Debug\net6.0\ConsoleApp6.deps.json
+C:\Users\TOSHIBA\OneDrive\Desktop\Tugas PBO PR Minggu ke-3\bin\Debug\net6.0\ConsoleApp6.runtimeconfig.json
+C:\Users\TOSHIBA\OneDrive\Desktop\Tugas PBO PR Minggu ke-3\bin\Debug\net6.0\ConsoleApp6.dll
+C:\Users\TOSHIBA\OneDrive\Desktop\Tugas PBO PR Minggu ke-3\bin\Debug\net6.0\ConsoleApp6.pdb
+C:\Users\TOSHIBA\OneDrive\Desktop\Tugas PBO PR Minggu ke-3\obj\Debug\net6.0\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\OneDrive\Desktop\Tugas PBO PR Minggu ke-3\obj\Debug\net6.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\OneDrive\Desktop\Tugas PBO PR Minggu ke-3\obj\Debug\net6.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\OneDrive\Desktop\Tugas PBO PR Minggu ke-3\obj\Debug\net6.0\ConsoleApp6.AssemblyInfo.cs
+C:\Users\TOSHIBA\OneDrive\Desktop\Tugas PBO PR Minggu ke-3\obj\Debug\net6.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\OneDrive\Desktop\Tugas PBO PR Minggu ke-3\obj\Debug\net6.0\ConsoleApp6.dll
+C:\Users\TOSHIBA\OneDrive\Desktop\Tugas PBO PR Minggu ke-3\obj\Debug\net6.0\refint\ConsoleApp6.dll
+C:\Users\TOSHIBA\OneDrive\Desktop\Tugas PBO PR Minggu ke-3\obj\Debug\net6.0\ConsoleApp6.pdb
+C:\Users\TOSHIBA\OneDrive\Desktop\Tugas PBO PR Minggu ke-3\obj\Debug\net6.0\ConsoleApp6.genruntimeconfig.cache
+C:\Users\TOSHIBA\OneDrive\Desktop\Tugas PBO PR Minggu ke-3\obj\Debug\net6.0\ref\ConsoleApp6.dll
+C:\Users\TOSHIBA\OneDrive\Desktop\212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\bin\Debug\net6.0\ConsoleApp6.exe
+C:\Users\TOSHIBA\OneDrive\Desktop\212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\bin\Debug\net6.0\ConsoleApp6.deps.json
+C:\Users\TOSHIBA\OneDrive\Desktop\212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\bin\Debug\net6.0\ConsoleApp6.runtimeconfig.json
+C:\Users\TOSHIBA\OneDrive\Desktop\212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\bin\Debug\net6.0\ConsoleApp6.dll
+C:\Users\TOSHIBA\OneDrive\Desktop\212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\bin\Debug\net6.0\ConsoleApp6.pdb
+C:\Users\TOSHIBA\OneDrive\Desktop\212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\OneDrive\Desktop\212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\OneDrive\Desktop\212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\OneDrive\Desktop\212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\ConsoleApp6.AssemblyInfo.cs
+C:\Users\TOSHIBA\OneDrive\Desktop\212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\OneDrive\Desktop\212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\ConsoleApp6.dll
+C:\Users\TOSHIBA\OneDrive\Desktop\212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\refint\ConsoleApp6.dll
+C:\Users\TOSHIBA\OneDrive\Desktop\212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\ConsoleApp6.pdb
+C:\Users\TOSHIBA\OneDrive\Desktop\212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\ConsoleApp6.genruntimeconfig.cache
+C:\Users\TOSHIBA\OneDrive\Desktop\212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\ref\ConsoleApp6.dll
+C:\Users\TOSHIBA\OneDrive\Desktop\Copy_212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\bin\Debug\net6.0\ConsoleApp6.exe
+C:\Users\TOSHIBA\OneDrive\Desktop\Copy_212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\bin\Debug\net6.0\ConsoleApp6.deps.json
+C:\Users\TOSHIBA\OneDrive\Desktop\Copy_212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\bin\Debug\net6.0\ConsoleApp6.runtimeconfig.json
+C:\Users\TOSHIBA\OneDrive\Desktop\Copy_212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\bin\Debug\net6.0\ConsoleApp6.dll
+C:\Users\TOSHIBA\OneDrive\Desktop\Copy_212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\bin\Debug\net6.0\ConsoleApp6.pdb
+C:\Users\TOSHIBA\OneDrive\Desktop\Copy_212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\OneDrive\Desktop\Copy_212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\OneDrive\Desktop\Copy_212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\OneDrive\Desktop\Copy_212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\ConsoleApp6.AssemblyInfo.cs
+C:\Users\TOSHIBA\OneDrive\Desktop\Copy_212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\OneDrive\Desktop\Copy_212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\ConsoleApp6.dll
+C:\Users\TOSHIBA\OneDrive\Desktop\Copy_212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\refint\ConsoleApp6.dll
+C:\Users\TOSHIBA\OneDrive\Desktop\Copy_212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\ConsoleApp6.pdb
+C:\Users\TOSHIBA\OneDrive\Desktop\Copy_212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\ConsoleApp6.genruntimeconfig.cache
+C:\Users\TOSHIBA\OneDrive\Desktop\Copy_212410101094_Winursita Devi Pramesthi_PBO PR_Inheritance\obj\Debug\net6.0\ref\ConsoleApp6.dll
